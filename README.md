@@ -4,6 +4,9 @@ A machine learning-based credit risk assessment system that predicts the probabi
 
 The project combines a trained XGBoost classification model with a preprocessing pipeline, FastAPI backend and web-based frontend to provide an end-to-end credit risk assessment workflow.
 
+<img width="761" height="961" alt="Screenshot 2026-10-27 at 12 49 10 AM" src="https://github.com/user-attachments/assets/2d579789-5294-4633-991c-3fd73fc01f41" />
+
+
 ## Project Overview
 
 The goal of this project is to build a complete machine learning application rather than only training a model.
